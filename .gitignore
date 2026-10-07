@@ -1,0 +1,11 @@
+# Study Question Tracker - dữ liệu cá nhân, KHÔNG đưa lên GitHub
+config.json
+history.json
+chat_history.json
+quota.json
+*.tmp
+screenshots/
+audio/
+app_icon.ico
+__pycache__/
+*.pyc
